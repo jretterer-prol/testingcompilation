@@ -6,6 +6,8 @@ Binaries/
 *.vcxproj
 *.vcxproj.user
 *.vcxproj.filters
+*.xcodeproj
+*.xcworkspace
 *.sln
 *.log
 Makefile
